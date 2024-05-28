@@ -6,3 +6,7 @@ class MyPlugin extends Plugin {
     context.showMessage('Hello from MyPlugin!');
   }
 }
+
+Plugin createPlugin() {
+  return MyPlugin();
+}

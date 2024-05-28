@@ -1,6 +1,6 @@
 [
   {
-    "name": "test",
+    "name": "template_plugin",
     "description": "test description",
     "url": "https://raw.githubusercontent.com/woop-xo/template_plugin/main/bin/template_plugin.evc"
   }
