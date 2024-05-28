@@ -7,6 +7,6 @@ class MyPlugin extends Plugin {
   }
 }
 
-Plugin main() {
+Plugin createPlugin() {
   return MyPlugin();
 }
