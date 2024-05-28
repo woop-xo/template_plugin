@@ -1,0 +1,5 @@
+# create a list of plugin metadata for multiple plugins
+# see https://github.com/dart-lang/pub/tree/master/doc/plugin.md#metadata
+- name: template_plugin
+  description: A sample plugin for the Kyushu app
+  url: https://raw.githubusercontent.com/woop-xo/template_plugin/main/bin/template_plugin.evc
